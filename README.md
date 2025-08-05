@@ -29,42 +29,55 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# 🌐 Niharika's Personal Portfolio Website
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Welcome to my **Personal Portfolio Website**! This project showcases my skills, academic achievements, work experience, and recent projects in a clean and responsive design — crafted especially for recruiters, collaborators, and fellow developers.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📘 About
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This is a fully responsive and minimalist portfolio built using **HTML**, **CSS**, and a bit of **JavaScript**. It is designed to present information clearly and concisely, with easy navigation and a modern layout.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🎯 Objectives
 
-## Learn More
+- Build a visually clean and modern portfolio
+- Display academic background, skills, and work experience
+- Showcase featured projects and ongoing work
+- Provide recruiters with a quick overview of my profile
+- Include social links for further engagement
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 🔹 Clean and responsive layout
+- 🔹 Skills section with animated bars
+- 🔹 Projects section with links
+- 🔹 Internship and current work highlights
+- 🔹 Contact section with social profiles
 
-### Code Splitting
+## 🛠️ Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **HTML5**
+- **CSS3**
+- **JavaScript (minimal)**
+- **Visual Studio Code**
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🧑‍💻 How to Use
 
-### Making a Progressive Web App
+To run this project locally:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+git clone https://github.com/niharika1007/-Simple-Responsive-Landing-Page.git
+cd Simple-Responsive-Landing-Page
+open index.html  # or open it in your browser manually
 
-### Advanced Configuration
+No server or deployment needed — it's a static website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🔗 Connect With Me
+💼 LinkedIn
 
-### Deployment
+🐙 GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+📧 Email: your.email@example.com
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🎨 Crafted with creativity, code, and caffeine by Niharika
+📌 This site will be continuously updated as I grow professionally.
