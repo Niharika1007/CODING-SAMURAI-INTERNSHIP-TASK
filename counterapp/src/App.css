@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 40px;
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.App.light {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.App.dark {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.count {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.warning {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.buttons button,
+.options button {
+  margin: 8px;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.buttons button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.buttons button {
+  background-color: #007bff;
+  color: white;
+}
+
+.buttons button:hover:not(:disabled) {
+  background-color: #0056b3;
+}
+
+.options button {
+  background-color: #6c757d;
+  color: white;
+}
+
+.options button:hover {
+  background-color: #495057;
+}
+
+.history {
+  list-style: none;
+  padding: 0;
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: left;
+}
